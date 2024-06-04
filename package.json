@@ -1,0 +1,25 @@
+{
+  "name": "sui-wave",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui.js": "^0.54.1",
+    "@polymedia/suits": "^0.0.41",
+    "bignumber.js": "^9.1.2",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "delay": "^6.0.0",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10",
+    "table": "^6.8.2",
+    "twisters": "^1.1.0"
+  }
+}

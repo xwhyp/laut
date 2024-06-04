@@ -1,0 +1,79 @@
+{
+    "gasFee": 3000,
+    "initReward": "1000000000",
+    "ref1": 2000,
+    "ref2": 500,
+    "boatLevel": [
+        {
+            "fishing_time": 20000,
+            "price_upgrade": "20000000000"
+        },
+        {
+            "fishing_time": 30000,
+            "price_upgrade": "40000000000"
+        },
+        {
+            "fishing_time": 40000,
+            "price_upgrade": "60000000000"
+        },
+        {
+            "fishing_time": 60000,
+            "price_upgrade": "100000000000"
+        },
+        {
+            "fishing_time": 120000,
+            "price_upgrade": "160000000000"
+        },
+        {
+            "fishing_time": 240000,
+            "price_upgrade": "320000000000"
+        }
+    ],
+    "meshLevel": [
+        {
+            "price_upgrade": "20000000000",
+            "speed": 10000
+        },
+        {
+            "price_upgrade": "100000000000",
+            "speed": 15000
+        },
+        {
+            "price_upgrade": "200000000000",
+            "speed": 20000
+        },
+        {
+            "price_upgrade": "400000000000",
+            "speed": 25000
+        },
+        {
+            "price_upgrade": "2000000000000",
+            "speed": 30000
+        },
+        {
+            "price_upgrade": "4000000000000",
+            "speed": 50000
+        }
+    ],
+    "fishTypeLevel": [
+        {
+            "rate": 10000
+        },
+        {
+            "rate": 12500
+        },
+        {
+            "rate": 15000
+        },
+        {
+            "rate": 17500
+        },
+        {
+            "rate": 20000
+        },
+        {
+            "rate": 25000
+        }
+    ],
+    "specialBoost": []
+}
